@@ -10,8 +10,13 @@
 ## Semantic HTML reference
 ![image of semantic HTML diagram](assets/images/semantic-html.png)
 
+* Changed css class selector to tag selector(.header to header and .footer to footer).
 * Removed the class of header and footer since the tag selectors are used to style.
 * Added `alt=""` attribute to `<img>`tag which gives the decription to the user in case image not visible.
+* Added id to the article to fix the link.
+* Changed class of all article semantic tag to same class name and same with the div under aside semantic tag in html and changed css selector, to consolidate the css design showing the same property.
+* Changed the `<h3>`tag to `<h2>`tag to maintain html hierarchy tree.
+* Add font-size to h2 of class benefits to match the size of h3 in orginal UI.
 
 
 ## My github repo link is as follow:
