@@ -8,23 +8,26 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* changed from class sector to tag selector */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-.header h1 {
+ /*selecting h1(child) of header*/
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+/*selecting with class selector(.seo) which is under h1 of header tag*/
+header h1 .seo {
     color: #d9dcd6;
 }
 
-.header nav {
+/*selecting nav tag of header*/
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -32,11 +35,13 @@ body {
     font-size: 20px;
 }
 
-.header nav ul {
+/*selcting ul tag under nav tag of header*/
+header nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+/*selecting li tag under ul under nav tag of header*/
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
