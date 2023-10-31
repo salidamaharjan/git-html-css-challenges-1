@@ -1,5 +1,8 @@
 # git-html-css-challenges-1
 
+## My github page link is as follow:
+[Github page link](https://salidamaharjan.github.io/git-html-css-challenges-1/)
+
 ## Recreating following webpage.
 ![image of webpage given in develop folder](assets/images/01-html-css-git-homework-demo.png)
 
@@ -20,8 +23,7 @@
 
 
 ## My github repo link is as follow:
-https://github.com/salidamaharjan/git-html-css-challenges-1
+[Github repo link](https://github.com/salidamaharjan/git-html-css-challenges-1)
 
-## My github page link is as follow:
-https://salidamaharjan.github.io/git-html-css-challenges-1/
+
 
