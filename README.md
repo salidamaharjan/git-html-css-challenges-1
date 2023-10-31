@@ -10,7 +10,8 @@
 ## Semantic HTML reference
 ![image of semantic HTML diagram](assets/images/semantic-html.png)
 
-* 
+* Removed the class of header and footer since the tag selectors are used to style.
+* Added `alt=""` attribute to `<img>`tag which gives the decription to the user in case image not visible.
 
 
 ## My github repo link is as follow:
