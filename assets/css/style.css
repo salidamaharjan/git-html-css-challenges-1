@@ -91,22 +91,26 @@ p {
     background-color: #2589bd;
 }
 
+/* consolidating the css for the class which shows same behavior */
 .benefit-component {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* consolidating the css for the class which shows same behavior */
 .benefit-component h2 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* consolidating the css for the class which shows same behavior */
 .benefit-component img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* consolidating the css for the class which shows same behavior */
 .link-detail {
     margin-bottom: 20px;
     padding: 50px;
@@ -116,10 +120,12 @@ p {
     color: #ffffff;
 }
 
+/* consolidating the css for img tag under link-detail class */
 .link-detail img {
     max-height: 200px;
 }
 
+/* consolidating the css for h2 tag under link-detail class  */
 .link-detail h2 {
     margin-bottom: 20px;
     font-size: 36px;
